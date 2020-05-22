@@ -1,4 +1,10 @@
-# multipagetest
+# Vue 多頁面實作 Demo
+
+## 說明
+
+page: 
+1. front  http://localhost:8080/
+2. admin  http://localhost:8080/admin
 
 ## Project setup
 ```
@@ -24,6 +30,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
